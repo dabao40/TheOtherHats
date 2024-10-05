@@ -828,16 +828,15 @@
             "resource": "hjs.png"
         },
         {
+            "adaptive": true,
             "author": "Ks.yes",
-            "bounce": "true",
+            "climbresource": "kitten_adaptive_climb.png",
             "condition": "None",
             "name": "Kitten",
             "package": "Community Hats",
-            "resource": "kitten_adaptive.png",
             "reshasha": "8d11b5f3640849e6af0fb9af69208c2d",
-            "climbresource": "kitten_adaptive_climb.png",
             "reshashc": "b90d44b2bc13c942c5de5b4dc6d0ac59",
-            "adaptive": true
+            "resource": "kitten_adaptive.png"
         },
         {
             "author": "Trulla",
